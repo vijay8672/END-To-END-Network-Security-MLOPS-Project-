@@ -7,5 +7,3 @@ ipykernel
 scikit-learn
 pymongo
 certifi
-
-# -e .    ## do -e . step at the last 
