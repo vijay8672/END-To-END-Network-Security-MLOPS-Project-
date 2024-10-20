@@ -6,6 +6,7 @@ seaborn
 ipykernel
 scikit-learn
 pymongo
+pymongo[srv]==3.6
 certifi
 
 # -e .    ## do -e . step at the last time during deployment

@@ -1,2 +1,11 @@
 myenv
 .env
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore other files or directories
+*.pyc
+*.pyo
+env/
+*.log
