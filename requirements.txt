@@ -8,4 +8,4 @@ scikit-learn
 pymongo
 certifi
 
-# -e .    ## do -e . step at the last 
+# -e .    ## do -e . step at the last time during deployment
